@@ -1,0 +1,3 @@
+('Yumé', 'What track do you want to hear?')
+('System', 'おっけー')
+('System', 'Is it tea time yet?')

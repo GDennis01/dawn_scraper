@@ -1,0 +1,4 @@
+gameId,fname,scene,row,engChrName,engSearchText,engHtmlText,jpnChrName,jpnSearchText,jpnHtmlText,opName,pcIconHtml,evoIconHtml
+a1000,1,1,Dream,What track do you want to hear?,What track do you want to hear?,ユメ,どの曲を聞きたい？,どの曲を聞きたい？,,
+a1000,1,2,CHR_THIS,おっけー,おっけー,CHR_THIS,おっけー,おっけー,,
+a1000,2,3,CHR_THIS,Is it tea time yet?,Is it tea time yet?,CHR_THIS,お茶会はまだかしら,お茶会はまだかしら,,

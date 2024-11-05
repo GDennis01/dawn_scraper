@@ -1,0 +1,1 @@
+(65533, 'Issue will arise if focus remains on the<br/>player character.')

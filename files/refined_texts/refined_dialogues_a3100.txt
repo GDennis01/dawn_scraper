@@ -1,0 +1,1 @@
+(40000, 'Setting craft list to only crafts posessed by default.')

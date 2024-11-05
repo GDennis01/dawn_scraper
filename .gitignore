@@ -1,0 +1,11 @@
+files/t_name.json
+files/t_name_dump_dict.json
+files/converted_files/*
+files/debug/*
+scena/*
+t_name.json
+t_voice.tbl
+debug.txt
+post_get_cmd_text_06_08.txt
+test.csv
+TODO.txt

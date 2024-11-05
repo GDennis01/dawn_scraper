@@ -1,0 +1,2 @@
+('System', 'Hello.')
+('System', '(Inner monologue)')

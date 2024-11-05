@@ -1,0 +1,6 @@
+('Nina', "*sigh* I can't help but worry about her sometimes.<br/>She's a little too singleminded for her own good.")
+('Nina', "Though I suppose that's why she's the genuine<br/>article...unlike me.")
+('Nina', 'Hello. Any news to report?')
+('Nina', '...')
+('Nina', "I see... So that's where the 'filming' will be<br/>taking place. Just as we thought.")
+('Nina', "The only question now is who the final cast will be.<br/>We don't have long until the shoot begins, it seems.")

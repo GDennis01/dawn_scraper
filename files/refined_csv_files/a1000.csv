@@ -1,0 +1,4 @@
+gameId,fname,scene,row,engChrName,engSearchText,engHtmlText,jpnChrName,jpnSearchText,jpnHtmlText,opName,pcIconHtml,evoIconHtml
+11,a1000,1,1,,,,ユメ,どの曲を聞きたい？,どの曲を聞きたい？,,,
+11,a1000,1,2,,,,CHR_THIS,おっけー,おっけー,,,
+11,a1000,2,3,,,,CHR_THIS,お茶会はまだかしら,お茶会はまだかしら,,,
