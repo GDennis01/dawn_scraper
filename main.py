@@ -28,7 +28,7 @@ def main():
                 f.write("\n")
         # End of Debug
         
-        # Refine the dialogues by removing
+        # Refining the dialogues
         refined_dialogues = []
         for dialogue in dialogues:
             chara,text = pre_process_cmd_text_06_08(t_name,dialogue)
