@@ -2,6 +2,8 @@ files/t_name.json
 files/t_name_dump_dict.json
 files/converted_files/*
 files/debug/*
+files/refined_texts/*
+final_csvs/*
 scena/*
 t_name.json
 t_voice.tbl
